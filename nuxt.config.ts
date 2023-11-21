@@ -18,6 +18,9 @@ export default defineNuxtConfig({
     '@nuxtjs/google-fonts',
     '@nuxtjs/fontaine',
   ],
+  plugins: [
+    '~/plugins/storyblok.js',
+  ],
   i18n: {
     locales: ['en', 'id'],
     defaultLocale: 'en',

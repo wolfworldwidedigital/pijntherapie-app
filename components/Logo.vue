@@ -1,6 +1,3 @@
 <template>
-  <NuxtLink to="/" class="-m-1.5 p-1.5">
-    <span class="sr-only">Your Company</span>
-    <img height="32" width="32" class="h-8" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="">
-  </NuxtLink>
+  <img src="https://pijntherapie.shop/wp-content/uploads/2023/07/Pijntherapie_Tekengebied-1.png" alt="Logo">
 </template>
